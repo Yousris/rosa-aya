@@ -8,6 +8,7 @@ A small, single-page digital botanical study built as a gift for **Aya**. No fra
 
 ## What's inside
 
+- **A rose that grows from its roots** — the hero rose is revealed bottom-to-top by a hand-drawn SVG root system, then stays aglow. Press *Grow again* to replay it.
 - **A real rose** — a photoreal, dew-covered magenta rose generated with [Higgsfield](https://higgsfield.ai), colour-graded and feathered by hand.
 - **A 3D bloom film** — ten seconds of the rose opening, rendered frame by frame from the still image (perspective homography, bloom mask, drifting dust, and a quiet dedication at the end).
 - **A sealed letter** — press the wax seal to unfold a letter for Aya.
